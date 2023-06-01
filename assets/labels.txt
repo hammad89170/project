@@ -1,0 +1,3 @@
+0 Corn Gray leaf spot
+1 Corn Healthy
+2 Corn Northern Leaf Blight
